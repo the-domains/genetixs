@@ -1,0 +1,14 @@
+layout_spectrum: 0.625227052718401
+typography_spectrum: 0.7065424011088908
+color:
+  brandStrength: 0.8666109524201602
+  lightness: 0.1305976149160415
+  saturation: 0.6808729486074299
+  rhythmicContrast: 0.9854861162602901
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: genetixs
